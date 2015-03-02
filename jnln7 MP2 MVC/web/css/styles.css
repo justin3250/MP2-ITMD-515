@@ -1,0 +1,43 @@
+body {
+    color: #404040;
+    font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 100px;
+    background-color: #ebecda;
+  }
+
+  table {
+    width:100%;
+  }
+  
+  .formTable td:nth-child(odd){
+      float: right;
+  }
+  
+  table.recordTable {
+	font-family: verdana,arial,sans-serif;
+	font-size:16px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+}
+table.recordTable th ,h1{
+	padding: 13px;
+	background: #d5e3e4;
+	border: 1px solid #999999;
+}
+table.recordTable td , body{
+	padding: 5px;
+ 	background: #ebecda;
+ ;
+}
+
+#bottom{
+	background: #d5e3e4;
+	border: 1px solid #999999;
+}
+
+
+
